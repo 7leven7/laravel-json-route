@@ -14,7 +14,7 @@
         "type": "package",
         "package": {
             "name": "7leven7/laravel-json-route",
-            "version": "master",
+            "version": "dev-master",
             "source": {
                 "url": "https://github.com/7leven7/laravel-json-route",
                 "type": "git",
