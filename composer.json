@@ -9,6 +9,25 @@
 			"email": "brankokragovic87@gmail.com"
 		}
 	],
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "7leven7/laravel-json-route",
+            "version": "master",
+            "source": {
+                "url": "https://github.com/7leven7/laravel-json-route",
+                "type": "git",
+                "reference": "master"
+            },
+            "autoload": {
+                "psr-0" : {
+                    "7leven7\\laravel-json-route" : "src"
+                }
+            }
+        }
+    }
+],
 	"require": {
 		"php": ">=7.0",
 		"illuminate/support": "~5.6"
